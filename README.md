@@ -18,9 +18,9 @@
 
 📌 示例填写格式（复制下面内容，分开添加）：
 
-JUSTRUNMY_EMAIL=abc@def.com  
+JUSTRUNMY_EMAIL=abc@abc.com  
 JUSTRUNMY_PASSWORD=abc123  
-GOST_PROXY_TARGET=socks5://user:pass@123.456.789.012:1080  
+GOST_PROXY_TARGET=socks5://user:pass@123.456.789:1234  
 TG_BOT_TOKEN=123456789:ABCdefGhIJKlmNoPQRstuVWXyz  
 TG_CHAT_ID=123456789  
 
