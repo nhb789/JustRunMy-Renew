@@ -41,7 +41,7 @@ def send_tg_message(status_icon, status_text, time_left):
 
     # 按照格式拼接消息，动态注入抓取到的应用名称
     text = (
-        f"🎮 Jusrunmy o续期通知
+        f"🎮 Jusrunmy 续期通知\n"
         f"🖥 {DYNAMIC_APP_NAME}\n"
         f"{status_icon} {status_text}\n"
         f"⏱️ 剩余: {time_left}\n"
